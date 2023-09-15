@@ -6,13 +6,13 @@
 class RafnixG:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
+        self.username = 'Adwangya'
+        self.name = 'Adwangya'
         self.position = 'Python Software Developer'
-        self.web = 'https://rafnixg.dev'
-        self.blog = 'https://blog.rafnixg.dev'
-        self.cv = 'https://rafnixg.dev/resume'
-        self.twitter = '@rafnixg'
+        self.web = 'https://adwangya.dev'
+        self.blog = 'https://blog.adwangya.dev'
+        self.cv = 'https://adwangya.dev/resume'
+        self.twitter = '@adwangya'
         self.code = {
             'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
@@ -28,7 +28,7 @@ class RafnixG:
 
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me =Adwangya()
     print(me)
 
 
@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
 - Twitter: https://twitter.com
 - Personal Site: side
-- CV Resume: https://rafnixg.dev
+- CV Resume: https://Adwangya.dev
 - Personal Blog: https://blog
 
 ## Latest Posts (Spanish)
