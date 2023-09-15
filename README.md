@@ -3,7 +3,7 @@
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 ```python
-class RafnixG:
+class Adwangya:
 
     def __init__(self):
         self.username = 'Adwangya'
