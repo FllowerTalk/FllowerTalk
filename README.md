@@ -46,7 +46,7 @@ if __name__ == '__main__':
 ## Latest Posts (Spanish)
 
 
-- [Shell de Odoo: Domina Operaciones Avanzadas, Integración de Librerías y Automatización de Tareas](https://blog.rafnixg.dev/shell-de-odoo-domina-operaciones-avanzadas-integracion-de-librerias-y-automatizacion-de-tareas)
+- [Shell de Odoo: Domina Operaciones Avanzadas, Integración de Librerías y Automatización de Tareas](https://blog.adwangya.dev/shell-de-odoo-domina-operaciones-avanzadas-integracion-de-librerias-y-automatizacion-de-tareas)
 
 - [Explorando Odoo a fondo: Cómo trabajar con la shell de la CLI y configurar IPython como REPL](https://blog.rafnixg.dev/explorando-odoo-a-fondo-como-trabajar-con-la-shell-de-la-cli-y-configurar-ipython-como-repl)
 
